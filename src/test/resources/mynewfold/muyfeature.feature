@@ -9,6 +9,7 @@
     And Enter username new <new_user>
     And Enter password new <new_psw>
     And Click search <pro>
+    And Add to card
     
     
  
